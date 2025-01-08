@@ -51,20 +51,19 @@ Lớp kiểm thử này sẽ tự động chạy các kiểm thử khi bạn th�
 **Cấu trúc dự án**
  
 ├── src
-
 │   ├── main
-
 │   │   └── java
-
-│   │       └── MathUtils.java
-
+│   │       └── com
+│   │           └── example
+│   │               └── math
+│   │                   └── MathUtils.java
 │   └── test
-
 │       └── java
-
-│           └── MathUtilsTestt.java
+│           └── com
+│               └── example
+│                   └── math
+│                       └── MathUtilsTest.java
 ├── pom.xml
-
 └── README.md
 
 **Kết quả**
