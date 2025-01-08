@@ -5,6 +5,7 @@ Bài tập 1 của môn "Kiểm thử phần mềm" sử dụng JUnit5 của m�
 Đề bài: Kiểm thử đơn vị với Java.
 
 MathUtils
+
 MathUtils là một lớp Java cung cấp các phương thức toán học cơ bản cho phép thực hiện các phép toán cộng, trừ, nhân và chia với kiểm tra overflow và underflow. Lớp này đảm bảo rằng các phép toán không dẫn đến lỗi do vượt quá giới hạn của kiểu dữ liệu int.
 
 Tính năng
@@ -28,6 +29,7 @@ Các phương thức sẽ ném ra IllegalArgumentException trong các trường 
   ![image](https://github.com/user-attachments/assets/aafc9aeb-5343-4c10-ac83-bdc1f08545bf)
 
 MathUtilsTest
+
 MathUtilsTest là một lớp kiểm thử JUnit cho lớp MathUtils, nhằm đảm bảo rằng các phương thức toán học như cộng, trừ, nhân và chia hoạt động đúng cách và xử lý các trường hợp đặc biệt như overflow và underflow.
 
 Cách sử dụng
