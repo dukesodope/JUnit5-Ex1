@@ -48,24 +48,6 @@ Lớp kiểm thử này sẽ tự động chạy các kiểm thử khi bạn th�
 
   ![image](https://github.com/user-attachments/assets/b1d84789-0ba0-4735-8392-49e4c0803876)
 
-**Cấu trúc dự án**
- 
-├── src
-│   ├── main
-│   │   └── java
-│   │       └── com
-│   │           └── example
-│   │               └── math
-│   │                   └── MathUtils.java
-│   └── test
-│       └── java
-│           └── com
-│               └── example
-│                   └── math
-│                       └── MathUtilsTest.java
-├── pom.xml
-└── README.md
-
 **Kết quả**
 
 ![Screenshot_1](https://github.com/user-attachments/assets/06cb26b0-6561-475d-a0a5-b5714b2962e2)
